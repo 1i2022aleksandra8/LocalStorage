@@ -1,0 +1,5 @@
+body { font-family: sans-serif; padding: 20px; max-width: 520px; }
+label { display: block; margin-top: 12px; }
+button { margin-top: 12px; padding: 8px 14px; cursor: pointer; }
+#wynik { margin-top: 16px; white-space: pre-wrap; }
+footer { margin-top: 24px; color: #666; font-size: 0.9rem; }
